@@ -1,3 +1,3 @@
-Hi! I'm Wood 💻 👋
+<h1>Hi! I'm Wood 💻 👋 </h1>
 
-A webdesigner professional.
+<h2>A webdesigner professional.</h2>
